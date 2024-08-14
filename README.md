@@ -6,11 +6,11 @@
 
 ## 安装
 
-**首先，**构建解决方案：我使用的VS2022+Ansi C，编译出的二进制体积十分小巧，只有3KB左右。
+**首先，** 构建解决方案：我使用的VS2022+Ansi C，编译出的二进制体积十分小巧，只有3KB左右。
 
-**其次，**运行`Install.bat`进行安装：该脚本用于修改注册表
+**其次，** 运行`Install.bat`进行安装：该脚本用于修改注册表
 
-**注意：**将CopyPath.exe复制某一个目录后，需要修改Install.bat中的exe_path变量指向该文件，且安装后不可以移动CopyPath.exe文件。
+**注意：** 将CopyPath.exe复制某一个目录后，需要修改Install.bat中的exe_path变量指向该文件，且安装后不可以移动CopyPath.exe文件。
 
 **示例：**
 
